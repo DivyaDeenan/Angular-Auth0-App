@@ -5,7 +5,7 @@ Angular 9 application that implements Auth0 in a service and uses canActivate ro
 ### Version
 1.0.0
 
-Uses Angular 2.0.1 Stable
+
 
 ### Usage
 
